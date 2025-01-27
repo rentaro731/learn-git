@@ -1,0 +1,11 @@
+.header {
+    background-color: aliceblue;
+}
+header-right {
+    float : right;
+
+}
+.header-logo {
+    float: left;
+
+}
