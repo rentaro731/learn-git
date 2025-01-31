@@ -1,11 +1,28 @@
+li {
+    list-style: none;
+}
 .header {
-    background-color: aliceblue;
+    width: 960px;
+    margin: 0 auto;
+}    
+.header-right {
+    margin-right: 100px;
 }
-header-right {
-    float : right;
-
+li a {
+    margin-right: 50px;
+    float: right;
+    color: black;
 }
-.header-logo {
+.header-logo a {
+    color:white;
+    background-color: black;
     float: left;
-
+    font-size: 16px;
+    margin-left: 100px;
+}
+.main {
+    height: 600px;
+}
+.main img {
+    width: 100%;
 }
